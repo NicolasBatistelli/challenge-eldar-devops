@@ -1,0 +1,10 @@
+com\example\SpringBootDemo\model\Student.class
+com\example\SpringBootDemo\errorHandler\StudentNotFoundException.class
+com\example\SpringBootDemo\dao\StudentRepository.class
+com\example\SpringBootDemo\service\StudentService.class
+com\example\SpringBootDemo\errorHandler\StudentUnSupportedFieldPatchException.class
+com\example\SpringBootDemo\util\DataLoader.class
+com\example\SpringBootDemo\controller\StudentController.class
+com\example\SpringBootDemo\errorHandler\CustomGlobalExceptionHandler.class
+com\example\SpringBootDemo\service\IService.class
+com\example\SpringBootDemo\SpringBootDemoApplication.class
